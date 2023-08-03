@@ -1,2 +1,2 @@
 #!/bin/bash
-chowr vincent: staff*
+chowr vincent:staff *
