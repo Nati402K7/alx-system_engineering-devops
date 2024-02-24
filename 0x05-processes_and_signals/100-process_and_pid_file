@@ -6,7 +6,7 @@
 #   Displays Y U no love me?! when receiving a SIGINT signal
 #   Deletes the file /var/run/myscript.pid and terminates itself
 
-terminal() {
+terminator() {
 	rm /var/run/myscript.pid
 	exit
 }
